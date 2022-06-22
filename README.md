@@ -1,3 +1,3 @@
 # Amuri
 Week Game Jam
-Le futur jeu gagnant
+Le futur jeu 7ème (injustement).
